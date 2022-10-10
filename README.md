@@ -24,4 +24,4 @@ services:
 Set the following proxy server settings on your operating system:  HTTP(S) Proxy <i>127.0.0.1</i> Port <i>3128</i>
 
 # Configure Lantern
-Application web interface http://127.0.0.1:8080/admin
+Application web interface: http://127.0.0.1:8080/admin
